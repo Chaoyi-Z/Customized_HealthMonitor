@@ -1,0 +1,19 @@
+# Arduino build artifacts
+build/
+*.elf
+*.map
+
+# Data logs
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
